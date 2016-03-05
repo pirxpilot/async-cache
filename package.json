@@ -1,5 +1,5 @@
 {
-  "name": "async-cache",
+  "name": "pirxpilot-async-cache",
   "version": "1.0.0",
   "description": "Cache your async lookups and don't fetch the same thing more than necessary.",
   "main": "ac.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/isaacs/async-cache"
+    "url": "git://github.com/pirxpilot/async-cache"
   },
   "keywords": [
     "async",
